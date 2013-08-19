@@ -26,29 +26,35 @@
 			#navigation {
 				border: 1px solid red;
 			}
+			
+			#logo-slogan-navigation-wrap {
+				border: 1px solid brown;
+			}
 		</style>
 	</head>
 	<body>
-		<div id="logowrap"><a href="home.php"><img src="" />&nbsp;</a></div>
-			<div id="slogan-navigation-wrap">
-				<div id="sloganwrap"><h1>Flanigan's Apiary Slogan</h1></div>
-				<!--Navigation Block-->
-				<div id="navigation">
-					<span class="link">
-					<a href="home.php">Home</a>
-					</span>
-					
-					<span class="link">
-					<a href="how-to.php">How to/Info</a>
-					</span>
-					
-					<span class="link">
-					<a href="ask-bee-man.php">Ask The Bee Man</a>
-					</span>
-					
-					<span class="link">
-					<a href="store.php">Store</a>
-					</span>
+		<div id="logo-slogan-navigation-wrap">
+			<div id="logowrap"><a href="home.php"><img src="" />&nbsp;</a></div>
+				<div id="slogan-navigation-wrap">
+					<div id="sloganwrap"><h1>Flanigan's Apiary Slogan</h1></div>
+					<!--Navigation Block-->
+					<div id="navigation">
+						<span class="link">
+						<a href="home.php">Home</a>
+						</span>
+						
+						<span class="link">
+						<a href="how-to.php">How to/Info</a>
+						</span>
+						
+						<span class="link">
+						<a href="ask-bee-man.php">Ask The Bee Man</a>
+						</span>
+						
+						<span class="link">
+						<a href="store.php">Store</a>
+						</span>
+					</div>
 				</div>
-				<!--End Navigation-->
+					<!--End Navigation-->
 			</div>
