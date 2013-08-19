@@ -10,21 +10,30 @@
 		
 		<style>
 			#logowrap {
-				width: 100px;
-				height: 100px;
+				width: 250px;
+				height: 215px;
 				float: left;
-				margin-right: 100px;
 				background-color: yellow;
 				border: 1px solid green;
 			}
 			
 			#slogan-navigation-wrap {
-				float: right;
-				border: 1px solid black;
+				margin-left: 20%;
+				margin-top: 50px;
+				
+				
+			}
+			
+			#sloganwrap {
+				font-size: 25px;
+				margin-bottom: 70px;
+				margin-left: 20%;
 			}
 			
 			#navigation {
-				border: 1px solid red;
+				font-size: 25px;
+				
+				border: 1px dashed red;
 			}
 			
 			#logo-slogan-navigation-wrap {
@@ -34,7 +43,7 @@
 	</head>
 	<body>
 		<div id="logo-slogan-navigation-wrap">
-			<div id="logowrap"><a href="home.php"><img src="" />&nbsp;</a></div>
+			<div id="logowrap"><a href="home.php"><img src="" />LOGO</a></div>
 				<div id="slogan-navigation-wrap">
 					<div id="sloganwrap"><h1>Flanigan's Apiary Slogan</h1></div>
 					<!--Navigation Block-->
