@@ -3,30 +3,33 @@
 		<title>
 		Flannigan's Apiary
 		</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
 		<!--Jquery links-->
 		
 		<!--end Jquery-->
 	</head>
 	<body>
-		<div id="logowrap"><a href="/"><img src="" /></a></div>
+		<div id="logowrap"><a href="home.php"><img src="" />LOGO</a></div>
+			<!--Navigation Block-->
 			<div id="navigation">
+				<div id="sloganwrapper">Flanigan's Apiary Slogan</div>
+				
 				<span class="link">
-				<a href="flanigansapiary/index.php/welcome/index/home">Home</a>
+				<a href="home.php">Home</a>
 				</span>
 				
 				<span class="link">
-				<a href="flanigansapiary/index.php/welcome/index/how-to">How to/Info</a>
+				<a href="how-to.php">How to/Info</a>
 				</span>
 				
 				<span class="link">
-				<a href="/index.php/welcome/index/ask-bee-man">Ask The Bee Man</a>
+				<a href="ask-bee-man.php">Ask The Bee Man</a>
 				</span>
 				
 				<span class="link">
-				<a href="/index.php/welcome/index/store">Store</a>
+				<a href="store.php">Store</a>
 				</span>
 			</div>
-
-
+			<!--End Navigation-->
 	</body>
 </html>
