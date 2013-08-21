@@ -8,4 +8,11 @@ class Welcome extends CI_Controller {
 		$this->load->view($view);
 		$this->load->view('footer');
 	}
+	
+	public function store($view)
+	{
+		$this->load->view('store-header');
+		$this->load->view('store-'.$view);
+		$this->load->view('store-footer');
+	}
 }
