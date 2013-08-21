@@ -47,7 +47,7 @@
 			<input type="text" name="question" />
 		</div>
 		
-		<div>
+		<div id="askbutton">
 			<input type="button" value="Ask the Bee Man!" />
 		</div>
 	</form>
