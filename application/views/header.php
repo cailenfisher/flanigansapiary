@@ -32,6 +32,6 @@
 						<a href="store.php">Store</a>
 						</span>
 					</div>
-				</div>
 					<!--End Navigation-->
-			</div>
+				</div>
+		</div>
