@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<div id="logo-slogan-navigation-wrap">
-			<div id="logowrap"><a href="home.php"><img src="" />LOGO</a></div>
+			<a href="home.php"><div id="logowrap"><img src="" />LOGO</div></a>
 				<div id="slogan-navigation-wrap">
 					<div id="sloganwrap"><h1>Flanigan's Apiary Slogan Flanigan's Apiary Slogan</h1></div>
 					<!--Navigation Block-->
