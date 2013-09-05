@@ -1,11 +1,11 @@
 <div id="raqwrap">
-<h1 id="raq-header">Recently Asked Questions</h1>
+	<h1 id="raq-header">Recently Asked Questions</h1>
 	<ul>
 		<li>
-		Lorem Ipsum
+			Lorem Ipsum
 		</li>
 		<li>
-		Dolor dolor
+			Dolor dolor
 		</li>
 	</ul>
 </div>
@@ -27,16 +27,16 @@
 			
 			<div id="form-right">
 				<div>
-						<label for="last_name" >Last Name</label>
-						<input type="text" name="last_name" />
+					<label for="last_name" >Last Name</label>
+					<input type="text" name="last_name" />
 				</div>
 				
 				<div>
 					<div>
-					<input type="radio" value="bee_keeper" />Bee Keeper<br/>
+						<input type="radio" value="bee_keeper" />Bee Keeper<br/>
 					</div>
 					<div>
-					<input type="radio" value="enthusiast" />Enthusiast<br />
+						<input type="radio" value="enthusiast" />Enthusiast<br />
 					</div>
 				</div>
 			</div>
